@@ -68,3 +68,4 @@
 ![yiye](https://user-images.githubusercontent.com/33478934/197950012-b91c2f80-1e13-48dc-aabc-acc36e9b842c.png)
 ![zgs](https://user-images.githubusercontent.com/33478934/197950014-86e8d81e-c2e1-4153-8057-f490054f61bc.png)
 ![zht](https://user-images.githubusercontent.com/33478934/197950018-7e75a369-ed57-45d4-a03c-bdc0394ccb84.png)
+![doubi](https://user-images.githubusercontent.com/33478934/197953033-07fb0309-2199-413d-a973-ad424fc53100.png)
