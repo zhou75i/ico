@@ -101,7 +101,6 @@
 ![gjx](https://github.com/zhou75i/ico/assets/33478934/aa27a3cc-c24c-433b-997e-79e9219392c0)
 ![mjtt](https://github.com/zhou75i/ico/assets/33478934/be3e154d-ad63-4234-b504-cc1ff2f8b026)
 
-![mjtt](https://github-production-user-asset-6210df.s3.amazonaws.com/33478934/293874862-71b96804-6dd8-4247-89c5-73a5c06b5c08.png)
 
 AAA
 ![mjtt](https://github-production-user-asset-6210df.s3.amazonaws.com/33478934/be3e154d-ad63-4234-b504-cc1ff2f8b026.png)
