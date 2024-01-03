@@ -98,6 +98,8 @@
 ![tlgj](https://github.com/zhou75i/ico/assets/33478934/bff40bd8-f170-4848-bd96-d77e30d39abf)
 ![zxpb](https://github.com/zhou75i/ico/assets/33478934/5e6a81d4-b782-4bc0-b164-d433c28bb7ca)
 ![pixfix](https://github.com/zhou75i/ico/assets/33478934/f5d28667-a558-476b-9166-6c0f54a20a58)
+![gjx](https://github.com/zhou75i/ico/assets/33478934/aa27a3cc-c24c-433b-997e-79e9219392c0)
+![mjtt](https://github.com/zhou75i/ico/assets/33478934/be3e154d-ad63-4234-b504-cc1ff2f8b026)
 
 
 
