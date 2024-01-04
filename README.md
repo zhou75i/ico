@@ -123,5 +123,7 @@ AAA
 ![wbsys](https://github.com/zhou75i/ico/assets/33478934/372b5def-a124-49c7-b360-3398eb2c1d7f)
 ![waifu2x](https://github.com/zhou75i/ico/assets/33478934/4b5c9be4-aebb-405f-b65c-3e90c51df9cc)
 ![wallhere](https://github.com/zhou75i/ico/assets/33478934/271a9975-1871-4166-9f0c-8ef117e5eabb)
+![github](https://github.com/zhou75i/ico/assets/33478934/19e645bc-4e6e-4bad-8d09-d4be2a8cea33)
+![gitee](https://github.com/zhou75i/ico/assets/33478934/49e21124-23f4-4f44-ab77-57ecdacda194)
 
 
