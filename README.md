@@ -119,5 +119,8 @@ AAA
 ![94](https://github.com/zhou75i/ico/assets/33478934/d484da0c-4b68-4862-8763-bf002733559c)
 ![mb](https://github.com/zhou75i/ico/assets/33478934/844ff50e-b537-41fc-956e-d7098638a1b1)
 ![tz](https://github.com/zhou75i/ico/assets/33478934/b1f94442-c5a6-42c1-bab6-26adb6cfdf0e)
+![fdjs](https://github.com/zhou75i/ico/assets/33478934/b33bdc30-9404-4826-8cf7-232c851a8806)
+![wbsys](https://github.com/zhou75i/ico/assets/33478934/372b5def-a124-49c7-b360-3398eb2c1d7f)
+![waifu2x](https://github.com/zhou75i/ico/assets/33478934/4b5c9be4-aebb-405f-b65c-3e90c51df9cc)
 
 
