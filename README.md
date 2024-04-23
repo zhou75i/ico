@@ -11,7 +11,7 @@
 ![ nipic ] ( https://user-images.githubusercontent.com/33478934/197729994-c2602a36-89ff-4d7e-8dbc-0be2596676df.png )
 ![ pdd ] ( https://user-images.githubusercontent.com/33478934/197729995-22ec29dc-c468-40f8-a2f8-ead4435e4727.png )
 ![ photoshop ] ( https://user-images.githubusercontent.com/33478934/197730002-988e72a9-8bd8-4292-b98e-852b3bb50866.png )
-![ qiantuwang ] ( https://user-images.githubusercontent.com/33478934/197730004-150d0840-c40b-4741-80e2-87c1dedb61d3.png )
+![ qiantuwang ] (https://user-images.githubusercontent.com/33478934/197730004-150d0840-c40b-4741-80e2-87c1dedb61d3.png)
 ![舍图网] ( https://user-images.githubusercontent.com/33478934/197730010-e4a1af23-e0c2-4e68-abb6-c4f91b4edec3.png )
 ![ smzdm ] ( https://user-images.githubusercontent.com/33478934/197730013-c3166780-2beb-42ad-a7c2-db61d1c5c590.png )
 ![淘宝] ( https://user-images.githubusercontent.com/33478934/197730016-112ec49c-db4a-4da9-96d2-896b7a8e9260.png )
@@ -25,13 +25,13 @@
 ![ youyou ] ( https://user-images.githubusercontent.com/33478934/197734627-17b46dd7-af4d-4eab-8b0c-b29d5c5b9c44.png )
 ![ acfun ] ( https://user-images.githubusercontent.com/33478934/197734630-abcc4a44-e491-410d-9551-1bcaf6615e9a.png )
 ![边] ( https://user-images.githubusercontent.com/33478934/197734633-32523b23-0572-4bbe-8b30-063b9868a0f5.png )
-！[墙] （https://user-images.githubusercontent.com/33478934/197734638-e0edfe08-83d9-40db-a7b1-5940d2417552.png ）
+！[墙]（https://user-images.githubusercontent.com/33478934/197734638-e0edfe08-83d9-40db-a7b1-5940d2417552.png ）
 ![ rys ] ( https://user-images.githubusercontent.com/33478934/197734641-07d625fb-3aca-424f-bc28-abb73c0c8fe3.png )
-![耐克] ( https://user-images.githubusercontent.com/33478934/197734644-48933511-29f6-4c18-9dc8-71c3f6c931df.png )
+！[徒步] ( https://user-images.githubusercontent.com/33478934/197734644-48933511-29f6-4c18-9dc8-71c3f6c931df.png )
 ![ zcool ] ( https://user-images.githubusercontent.com/33478934/197740262-48f47f62-8769-4b79-ac83-519cd89d33c2.png )
 ![白庙] ( https://user-images.githubusercontent.com/33478934/197740270-44fffda6-520f-490e-8d20-295a7fca31fe.png )
 ![全境] ( https://user-images.githubusercontent.com/33478934/197744182-78a6f635-7967-4149-b0eb-1d9d3e5ea81d.png )
-！[转向] （https://user-images.githubusercontent.com/33478934/197744188-95eaff11-e378-41c0-aecc-840f033bd2eb.png ）
+[转向]（https://user-images.githubusercontent.com/33478934/197744188-95eaff11-e378-41c0-aecc-840f033bd2eb.png ）
 ![ 123 ] ( https://user-images.githubusercontent.com/33478934/197949921-c7ba374a-2e7d-4b54-a8bf-8c6571688832.png )
 ![ acfun ] ( https://user-images.githubusercontent.com/33478934/197949925-abb009d6-7400-474a-81f2-90f7bc1a67d2.png )
 ![ alwp ] ( https://user-images.githubusercontent.com/33478934/197949927-4d2eb353-0259-4637-93da-bff0c242bea4.png )
@@ -77,7 +77,7 @@
 ![ wxxs ] ( https://user-images.githubusercontent.com/33478934/197974466-5a4cbdff-6cd3-4f69-a873-53045ad83672.png )
 ![ qmh ] ( https://user-images.githubusercontent.com/33478934/197976712-2c60a4c8-a6f7-433b-af6e-2a3c981ce6da.png )
 ![ XLSP ] ( https://user-images.githubusercontent.com/33478934/197979127-38d55150-de81-4e0c-a587-4ce83da65861.png )
-![ cctv ] （https://user-images.githubusercontent.com/33478934/197981657-2ee14611-e0c6-4882-b2d1-3216b65b06a5.png ）
+![ cctv ]（https://user-images.githubusercontent.com/33478934/197981657-2ee14611-e0c6-4882-b2d1-3216b65b06a5.png ）
 ![ bjdx ] ( https://user-images.githubusercontent.com/33478934/198248206-e0f3537f-971a-404b-8ee4-77bc445e67ed.png )
 ![ cbl ] ( https://user-images.githubusercontent.com/33478934/198248210-04e21dbd-a713-491e-bb70-819e8862f473.png )
 ![ cyxy ] ( https://user-images.githubusercontent.com/33478934/198248214-4379cd65-786d-4c6c-9b7d-a03a180b49cb.png )
@@ -87,7 +87,7 @@
 ![ ipdf ] ( https://user-images.githubusercontent.com/33478934/198248230-57de3df9-8d58-4ba4-9b4a-3720dd8d8d8c.png )
 ![ ittk ] ( https://user-images.githubusercontent.com/33478934/198248233-39167339-a828-4ef6-a008-f00878efbce9.png )
 ![ scp ] ( https://user-images.githubusercontent.com/33478934/198248235-a3ae3eaf-8185-41e0-9382-237a931093e6.png )
-![取消绘制] ( https://user-images.githubusercontent.com/33478934/198248237-6d8d14d5-2279-4249-bfa7-5e50c6469434.png )
+![取消同等] ( https://user-images.githubusercontent.com/33478934/198248237-6d8d14d5-2279-4249-bfa7-5e50c6469434.png )
 ![ yggjx ] ( https://user-images.githubusercontent.com/33478934/198248240-2cf4076b-6eb8-4b20-8c09-79f20784a1da.png )
 ![ yrxt ] ( https://user-images.githubusercontent.com/33478934/198248243-2e7371a8-adcf-46a3-a74f-c5ba7d788f5c.png )
 ![ zzzj ] ( https://user-images.githubusercontent.com/33478934/198248245-fc738f99-8518-4c02-a145-2cf3ff30da5d.png )
@@ -97,7 +97,7 @@
 ![ hcy ] ( https://github.com/zhou75i/ico/assets/33478934/46aabf86-ab7b-40ac-8643-e244802f45ab )
 ![ tlgj ] ( https://github.com/zhou75i/ico/assets/33478934/bff40bd8-f170-4848-bd96-d77e30d39abf )
 ![ zxpb ] ( https://github.com/zhou75i/ico/assets/33478934/5e6a81d4-b782-4bc0-b164-d433c28bb7ca )
-![ pixfix ] ( https://github.com/zhou75i/ico/assets/33478934/f5d28667-a558-476b-9166-6c0f54a20a58 )
+![ pixfix ] (https://github.com/zhou75i/ico/assets/33478934/f5d28667-a558-476b-9166-6c0f54a20a58)
 ![ gjx ] ( https://github.com/zhou75i/ico/assets/33478934/aa27a3cc-c24c-433b-997e-79e9219392c0 )
 ![ mjtt ] ( https://github.com/zhou75i/ico/assets/33478934/be3e154d-ad63-4234-b504-cc1ff2f8b026 )
 
@@ -117,27 +117,27 @@ AAA
 ![ yq ] ( https://github.com/zhou75i/ico/assets/33478934/11dc171f-8fbf-4e7a-969f-b02ed3e5fe36 )
 ![ xfwd ] ( https://github.com/zhou75i/ico/assets/33478934/42bb800b-d0aa-4493-9815-1fbe00a84bee )
 ![ 94 ] ( https://github.com/zhou75i/ico/assets/33478934/d484da0c-4b68-4862-8763-bf002733559c )
-![ mb ] ( https://github.com/zhou75i/ico/assets/33478934/844ff50e-b537-41fc-956e-d7098638a1b1 )
-![tz](https://github.com/zhou75i/ico/assets/33478934/b1f94442-c5a6-42c1-bab6-26adb6cfdf0e)
-![fdjs](https://github.com/zhou75i/ico/assets/33478934/b33bdc30-9404-4826-8cf7-232c851a8806)
-![wbsys](https://github.com/zhou75i/ico/assets/33478934/372b5def-a124-49c7-b360-3398eb2c1d7f)
-![waifu2x](https://github.com/zhou75i/ico/assets/33478934/4b5c9be4-aebb-405f-b65c-3e90c51df9cc)
-![wallhere](https://github.com/zhou75i/ico/assets/33478934/271a9975-1871-4166-9f0c-8ef117e5eabb)
-![ github ] ( https://github.com/zhou75i/ico/assets/33478934/19e645bc-4e6e-4bad-8d09-d4be2a8cea33 )
+![ mb ] (https://github.com/zhou75i/ico/assets/33478934/844ff50e-b537-41fc-956e-d7098638a1b1)
+![ tz ] ( https://github.com/zhou75i/ico/assets/33478934/b1f94442-c5a6-42c1-bab6-26adb6cfdf0e )
+![ fdjs ] ( https://github.com/zhou75i/ico/assets/33478934/b33bdc30-9404-4826-8cf7-232c851a8806 )
+![ wbsys ] ( https://github.com/zhou75i/ico/assets/33478934/372b5def-a124-49c7-b360-3398eb2c1d7f )
+![ waifu2x ] ( https://github.com/zhou75i/ico/assets/33478934/4b5c9be4-aebb-405f-b65c-3e90c51df9cc )
+![ wallhere ] ( https://github.com/zhou75i/ico/assets/33478934/271a9975-1871-4166-9f0c-8ef117e5eabb )
+![ github ] (https://github.com/zhou75i/ico/assets/33478934/19e645bc-4e6e-4bad-8d09-d4be2a8cea33)
 ![ gitee ] ( https://github.com/zhou75i/ico/assets/33478934/49e21124-23f4-4f44-ab77-57ecdacda194 )
-![ ggyx ] ( https://github.com/zhou75i/ico/assets/33478934/358bdf0d-5b69-41fc-aad4-dad42fe6353a )
-![xlyx](https://github.com/zhou75i/ico/assets/33478934/4c9a5815-499b-432b-b9cd-1a6b695cde7b)
-![wyyx](https://github.com/zhou75i/ico/assets/33478934/a9adcb2b-ba47-40d1-b90f-b57d4bc4a65a)
-![alyx](https://github.com/zhou75i/ico/assets/33478934/083e3687-a74b-4793-9d82-6bbed8cd9398)
-![qqyx](https://github.com/zhou75i/ico/assets/33478934/f908bdb8-afa3-4872-b2b7-8f52f919c2dd)
+![ ggyx ] (https://github.com/zhou75i/ico/assets/33478934/358bdf0d-5b69-41fc-aad4-dad42fe6353a)
+![ xlyx ] ( https://github.com/zhou75i/ico/assets/33478934/4c9a5815-499b-432b-b9cd-1a6b695cde7b )
+![ wyyx ] ( https://github.com/zhou75i/ico/assets/33478934/a9adcb2b-ba47-40d1-b90f-b57d4bc4a65a )
+![ alyx ] ( https://github.com/zhou75i/ico/assets/33478934/083e3687-a74b-4793-9d82-6bbed8cd9398 )
+![ qqyx ] ( https://github.com/zhou75i/ico/assets/33478934/f908bdb8-afa3-4872-b2b7-8f52f919c2dd )
 ![ z4a ] ( https://github.com/zhou75i/ico/assets/33478934/61914f71-c754-4812-b465-61c5e50e7250 )
 ![ wryx ] ( https://github.com/zhou75i/ico/assets/33478934/293e9deb-2c77-408c-803c-8a4477f7ddf8 )
 ![害羞] ( https://github.com/zhou75i/ico/assets/33478934/4995992c-87ce-461c-9ff3-2b2e91cc4e5c )
 ![ tomyx ] ( https://github.com/zhou75i/ico/assets/33478934/b011f0fb-39c4-410b-b16b-2633a6b03871 )
 ![ hotyx ] ( https://github.com/zhou75i/ico/assets/33478934/e9198d46-07ad-4096-9b2a-0d900fa3aeb3 )
-![wyyx](https://github.com/zhou75i/ico/assets/33478934/de8beda1-8539-4efb-b5d8-0563fea4c600)
-![wph](https://github.com/zhou75i/ico/assets/33478934/8c79b23f-2d81-40c4-8db3-1c8e5f176ce4)
-![tmsc](https://github.com/zhou75i/ico/assets/33478934/407d71bb-d92a-4181-b77a-65f47aca8d7d)
+![ wyyx ] ( https://github.com/zhou75i/ico/assets/33478934/de8beda1-8539-4efb-b5d8-0563fea4c600 )
+![ wph ] ( https://github.com/zhou75i/ico/assets/33478934/8c79b23f-2d81-40c4-8db3-1c8e5f176ce4 )
+![ tmsc ] ( https://github.com/zhou75i/ico/assets/33478934/407d71bb-d92a-4181-b77a-65f47aca8d7d )
 ![snyg](https://github.com/zhou75i/ico/assets/33478934/7fe717ef-c3ae-449b-9f66-d0d5c947ad4e)
 ![mgj](https://github.com/zhou75i/ico/assets/33478934/211c5d69-a585-4e4e-ac72-ef87ec719fff)
 ![klhg](https://github.com/zhou75i/ico/assets/33478934/4417e1da-7bdf-43b5-bf43-d2d91650139b)
@@ -147,6 +147,17 @@ AAA
 ![1tao](https://github.com/zhou75i/ico/assets/33478934/5a65f85f-106e-4acd-9011-bbb76302c594)
 ![xmi](https://github.com/zhou75i/ico/assets/33478934/42738b82-2f01-46da-aa79-ece12944f440)
 ![bxz](https://github.com/zhou75i/ico/assets/33478934/615ee9a4-1923-452a-a34c-db5760422658)
-![pg](https://github.com/zhou75i/ico/assets/33478934/cc861d37-d1e6-45e9-aebe-f612852b3576)
+![ pg ] ( https://github.com/zhou75i/ico/assets/33478934/cc861d37-d1e6-45e9-aebe-f612852b3576 )
+
+---------------*------------------------------------------
+
+
+
+
+
+
+
+
+
 
 
